@@ -1,1 +1,9 @@
 /gonix
+
+# IDE
+.idea
+
+# Devenv
+.devenv*
+devenv.local.nix
+
